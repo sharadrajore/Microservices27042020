@@ -1,0 +1,7 @@
+
+eureka.client.register-with-eureka=true
+
+eureka.client.fetch-registry=false
+
+
+server.port=8082
